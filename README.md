@@ -135,7 +135,7 @@ https://platform.openai.com/docs/guides/images/introduction?context=node
 
 Figma：https://www.figma.com/file/16ZCXS3y1hn11glG9n3nGu/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0?type=design&node-id=685-6&mode=design&t=mJOTZ8Lq5ihAlVT9-0
 
-## 機能一覧
+## □ 機能一覧
 
 - ユーザー登録機能
 - ログイン機能
