@@ -131,11 +131,11 @@ CRUD（投稿、編集、削除）<br>
 OpenAI- Image generation
 https://platform.openai.com/docs/guides/images/introduction?context=node
 
-### 画面遷移図
+## 画面遷移図
 
 Figma：https://www.figma.com/file/16ZCXS3y1hn11glG9n3nGu/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0?type=design&node-id=685-6&mode=design&t=mJOTZ8Lq5ihAlVT9-0
 
-### README に記載した機能
+## 機能一覧
 
 - [ ] ユーザー登録機能
 - [ ] ログイン機能
@@ -168,6 +168,7 @@ Figma：https://www.figma.com/file/16ZCXS3y1hn11glG9n3nGu/%E3%83%AA%E3%83%90%E3%
 以下の項目は適切に未ログインでも閲覧または利用できる画面遷移になっているか？
 
 - [ ] 心の状態投稿機能（画像投稿含む）
+- [ ] 心の状態閲覧機能
 - [ ] コメント閲覧機能（未ログインでも閲覧可能）
 - [ ] 質問（禅問答）閲覧機能（未ログインでも閲覧可能）
 
