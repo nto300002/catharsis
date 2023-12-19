@@ -178,3 +178,7 @@ Figma：https://www.figma.com/file/16ZCXS3y1hn11glG9n3nGu/%E3%83%AA%E3%83%90%E3%
 
 - メールアドレス
 - パスワード
+
+## ER 図
+
+https://gitmind.com/app/docs/fzi6s7fh
