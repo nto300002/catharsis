@@ -3,8 +3,8 @@
 	url = https://github.com/nto300002/front
 [submodule "back"]
 	path = back
-	url = https://github.com/nto300002/back
+	url = https://github.com/nto300002/catharsis_back
 [submodule "front_ui"]
 	path = front_ui
-	url = https://github.com/nto300002/front
+	url = https://github.com/nto300002/catharsis_front
 
